@@ -1,2 +1,2 @@
-Räkna dos - ett program som hjälper dig att räkna ut hur länge ett recept räcker.
-Av Felix Rosén
+# WiseMed
+Ett program av Felix Rosén, som hjälper dig räkna ut hur länge ett läkemedelsrecept räcker.
